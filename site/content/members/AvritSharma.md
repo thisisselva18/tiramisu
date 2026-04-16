@@ -1,6 +1,6 @@
 ---
 title: Avrit Sharma
-description: Marketing Team
+description: Member
 collections: ["members>2025", "marketing_team"]
 previewimage: /static/images/members/AvritSharma.jpeg
 tags: ["marketing"]

@@ -1,6 +1,6 @@
 ---
 title: Anirudh Sudhir
-description: Mentor Team
+description: Member
 collections: ["members>2023", "members>2024", "mentor_team"]
 previewimage: /static/images/members/AnirudhSudhir.jpg
 customFields:

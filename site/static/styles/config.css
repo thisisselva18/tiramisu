@@ -1,52 +1,52 @@
-
 :root {
     /* dimensions */
     --body-width: 60%;
 }
 
 
-    :root {
-        --color-heading: #ffffff;
-        --color-subheading: #a0a0a0;
+:root {
+    --color-heading: #ffffff;
+    --color-subheading: #a0a0a0;
 
-        --color-text: #ffffffc0;
-        --color-text-dim: #ffffff5a;
-        --color-text-low: #ffffff19;
+    --color-text: #ffffffc0;
+    --color-text-dim: #ffffff5a;
+    --color-text-low: #ffffff19;
 
-        --color-background: #0b0c0d;
-        --color-background-dim: #2020207f;
-        --color-background-low: #10100e50;
+    --color-background: #0b0c0d;
+    --color-background-dim: #2020207f;
+    --color-background-low: #10100e50;
 
-        --color-primary: #00fb6b;
-        --color-primary-dim: #00fb6b7f;
-        --inline-code-bg: #262628;
+    --color-primary: #00fb6b;
+    --color-primary-dim: #00fb6b7f;
+    --color-diff: #ff9c43;
+    --inline-code-bg: #262628;
 
-        /* Code block colors for dark mode */
-        --code-bg: #1a1a1a;
-        --code-text: #e0e0e0;
-        --code-border: #404040;
+    /* Code block colors for dark mode */
+    --code-bg: #1a1a1a;
+    --code-text: #e0e0e0;
+    --code-border: #404040;
 
-        /* dimensions */
-        --body-width: 45rem;
-    }
+    /* dimensions */
+    --body-width: 45rem;
+}
 
-    /* Image styling for dark mode */
-    img {
-        width: 100%;
-        border-radius: 8px;
-        margin: 1.5rem auto;
-        display: block;
-    }
+/* Image styling for dark mode */
+img {
+    width: 100%;
+    border-radius: 8px;
+    margin: 1.5rem auto;
+    display: block;
+}
 
-    /* Override for footer social icons - keep them inline */
-    footer img {
-        width: 24px !important;
-        height: 24px !important;
-        margin: 0 5px !important;
-        display: inline !important;
-        vertical-align: middle !important;
-        border-radius: 0 !important;
-    }
+/* Override for footer social icons - keep them inline */
+footer img {
+    width: 24px !important;
+    height: 24px !important;
+    margin: 0 5px !important;
+    display: inline !important;
+    vertical-align: middle !important;
+    border-radius: 0 !important;
+}
 
 /* @font-face {
     font-family: AzeretMono;

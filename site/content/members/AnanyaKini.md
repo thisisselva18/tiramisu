@@ -1,6 +1,6 @@
 ---
 title: Ananya Kini
-description: Design Team
+description: Member
 collections: ["members>2024","members>2025", "design_team"]
 tags: ["design"]
 previewimage: /static/images/members/AnanyaKini.jpg

@@ -1,6 +1,6 @@
 ---
 title: Adhesh Athrey
-description: Mentor Team
+description: Member
 collections: ["members>2023","members>2024", "mentor_team"]
 tags: ["mentor"]
 previewimage: /static/images/members/AdheshAthrey.jpg

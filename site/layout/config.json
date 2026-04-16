@@ -1,4 +1,14 @@
 {
+  "siteTitle": "HSP",
+  "author": "HSP",
+  "baseURL": "https://hsp-ec.xyz",
+  "copyright": "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.",
+  "themeURL": "/static/styles/default_imports.css",
+  "siteScripts": [
+    "hamburger.js",
+    "posthog.js",
+    "blob-search.js"
+  ],
   "navbar": [
     {
       "announcements": "/collections/announcements.html"
@@ -10,10 +20,7 @@
       "homebrew": "https://homebrew.hsp-ec.xyz"
     },
     {
-      "design": "/collections/design.html"
-    },
-    {
-      "gallery": "/gallery.html"
+      "firesides": "/firesides.html"
     },
     {
       "members": "/collections/members.html"
@@ -22,12 +29,6 @@
       "about": "/about.html"
     }
   ],
-  "baseURL": "https://hsp-ec.xyz",
-  "siteTitle": "HSP",
-  "siteScripts": ["hamburger.js", "posthog.js"],
-  "author": "HSP",
-  "themeURL": "/static/styles/default_imports.css",
-  "copyright": "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.",
   "collectionLayouts": {
     "collections/design.html": "collection-subpage-design",
     "collections/announcements.html": "collection-subpage-announcements",

@@ -1,6 +1,6 @@
 ---
 title: Soham Sarkar
-description: Mentor Team
+description: Member
 collections: ["members>2023", "members>2024", "members>2025", "mentor_team"]
 tags: ["mentor"]
 previewimage: /static/images/members/SohamSarkar.jpeg

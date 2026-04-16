@@ -1,6 +1,6 @@
 ---
 title: Hemaksh Breja
-description: Social Media Team
+description: Member
 collections: ["members>2025","Social Media_team"]
 tags: ["Social Media"]
 previewimage: "https://github.com/Hemaksh-b.png"

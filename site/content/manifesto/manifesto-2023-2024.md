@@ -38,10 +38,6 @@ If you’ve reached here, it means, you’ve been through the ride and I sincere
 
 Lastly, you would have also noticed that we’re now going by HSP. This is because we may have started off as Hackerspace ECC, but we’ve grown leaps and bounds in terms of ideologies and initiatives; thus crafting a need to carve out a new, refined, and separate identity for ourselves. Here’s to building; the community and your skillset! Onwards and Upwards!
 
-By:
-
-Harini Anand
-
-Co-Head of HSP
-
-9/8/2022
+> ~Harini Anand <br>
+> Co-Head of HSP <br>
+> 9/8/2022

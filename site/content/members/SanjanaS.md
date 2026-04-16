@@ -1,7 +1,7 @@
 ---
 title: Sanjana S
-description: Core Team Lead 2026, Operations Lead
-collections: ["members>2024", "members>2025"]
+description: "Core Team, Operations Lead '26"
+collections: ["members>2024", "members>2025", "core>2026"]
 tags: [""]
 previewimage: "https://avatars.githubusercontent.com/u/156563969?v=4"
 customFields:

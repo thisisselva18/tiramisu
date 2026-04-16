@@ -1,9 +1,9 @@
 ---
 title: Pranav M
-description:  Marketing Team
+description: Member
 collections: ["members>2025", "marketing_team"]
 tags: ["marketer"]
-previewimage: /static/images/members/PranavM.jpg
+previewimage: /static/images/members/PranavM.png
 customFields:
     - Linkedin: https://www.linkedin.com/in/prawns/
     - Github: https://github.com/prxnav2005

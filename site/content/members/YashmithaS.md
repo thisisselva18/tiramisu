@@ -1,7 +1,7 @@
 ---
 title: Yashmitha Shailesh
-description: Mentor & Design Team
-collections: ["members>2023", "members>2024", "mentor_team", "design_team"]
+description: Design Lead '26
+collections: ["members>2023", "members>2024", "mentor_team", "design_team", "core>2026"]
 tags: ["mentor", "designer"]
 previewimage: /static/images/members/YashmithaS.jpg
 customFields:

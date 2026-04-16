@@ -1,7 +1,7 @@
 ---
 title: Anshul P
-description: Member
-collections: ["members>2024", "members>2025", "members>2026"]
+description: SMM Lead '26
+collections: ["members>2024", "members>2025", "members>2026", "core>2026"]
 tags: ["core", "SMM"]
 previewimage: "/static/images/members/AnshulP.jpg"
 customFields:

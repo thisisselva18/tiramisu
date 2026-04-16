@@ -1,6 +1,6 @@
 ---
 title: Vinaayak G Dasika
-description: Mentor Team
+description: Member
 collections: ["members>2025","members>2026","mentor_team"]
 tags: ["mentor"]
 previewimage: /static/images/members/VinaayakGDasika.jpeg

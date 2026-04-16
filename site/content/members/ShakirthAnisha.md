@@ -1,6 +1,6 @@
 ---
 title: Shakirth Anisha
-description: Design Team
+description: Design Lead '26
 collections: ["members>2024", "members>2025", "design_team"]
 tags: ["designer"]
 previewimage: "https://github.com/shakirth-anisha.png"

@@ -1,7 +1,7 @@
 ---
 title: Sriprad Potukuchi
-description: Mentor Team Lead 2025
-collections: ["members>2022","members>2023","members>2024","core_team"]
+description: Mentor Lead '25
+collections: ["members>2022","members>2023","members>2024","core_team", "core>2025"]
 tags: ["mentor","core"]
 previewimage: /static/images/members/SripradPotukuchi.jpg
 customFields:

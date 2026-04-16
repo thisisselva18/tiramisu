@@ -1,6 +1,6 @@
 ---
 title: Mebin Thattil
-description: Mentor Team
+description: Member
 collections: ["members>2025","mentor_team"]
 tags: ["mentor"]
 previewimage: /static/images/members/MebinThattil.jpg

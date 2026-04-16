@@ -1,6 +1,6 @@
 ---
 title: Rahul Anand
-description: Mentor & Design Team
+description: Member
 collections: ["members>2023","members>2024", "mentor_team","design_team"]
 tags: ["mentor", "designer"]
 previewimage: /static/images/members/Rahul.jpg

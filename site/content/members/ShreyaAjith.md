@@ -1,6 +1,6 @@
 ---
 title: Shreya Ajith
-description: Design Team
+description: Member
 collections: ["members>2025", "design_team"]
 tags: ["designer"]
 previewimage: /static/images/members/ShreyaAjith.jpg

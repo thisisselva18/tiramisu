@@ -55,5 +55,24 @@
       "glow": "rgba(0, 251, 107, 0.3)",
       "glowIntense": "rgba(0, 251, 107, 0.5)"
     }
+  },
+  "bitflip": {
+    "title": "BitFlip",
+    "displayName": "Event Registrations",
+    "spinner": "/static/images/hsp-spinner.svg",
+    "poster": "/static/images/gallery/bitflip/poster.jpg",
+    "gsheetUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSsCFadfpei4O-tat6hDqzyxt82diPgUtzIqPFhaDYJ5hTbUVUo56gTkrxPla3sU1gVCC-O6T86gjgd/pub?gid=747603745&single=true&output=csv",
+    "dataColumn": 0,
+    "updateInterval": 5000,
+    "active": true,
+    "colors": {
+      "primary": "#00fb6b",
+      "primaryAlpha": "rgba(0, 251, 107, 0.8)",
+      "primaryIntense": "rgba(0, 251, 107, 1)",
+      "background": "rgba(0, 0, 0, 0.95)",
+      "border": "rgba(0, 251, 107, 0.4)",
+      "glow": "rgba(0, 251, 107, 0.3)",
+      "glowIntense": "rgba(0, 251, 107, 0.5)"
+    }
   }
 }
